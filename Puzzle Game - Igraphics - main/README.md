@@ -26,7 +26,3 @@ This is a very small and simple iGraphics game project named puzzle game. There 
 ### 6. ScoreBoard
 ![ScoreBoard](https://user-images.githubusercontent.com/97844745/216339931-b5dc7811-832b-46f0-acfa-df1c6bdf37e5.png)
 
-## How to Thank
-Hello curious man! If this repository is beneficial for you, I am happy. Thanks for visiting the repository. If you wanna thank me, just star the repository.
-
-## Thank you for reading
